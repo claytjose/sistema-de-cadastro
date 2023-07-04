@@ -6,5 +6,5 @@ status do projeto
 para rodar esse projeto na sua máquina
 
 '''
-note app js
+modificado
 '''
